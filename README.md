@@ -23,7 +23,7 @@
 <head>
     <title>Lugares Turísticos</title>
     <p>Cataratas do Niágara</p>
-   ![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/bac23236-3418-4c5e-bd06-38af43eab217)
+   ![image] (https://github.com/eduardamaria896/kkkkk/assets/106313690/bac23236-3418-4c5e-bd06-38af43eab217)
 </head>
 <body>
     <h1>Lugares Turísticos</h1>
