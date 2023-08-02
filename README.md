@@ -23,12 +23,14 @@
 <head>
     <title>Lugares Turísticos</title>
     <p>Cataratas do Niágara</p>
-   ![image] (https://github.com/eduardamaria896/kkkkk/assets/106313690/bac23236-3418-4c5e-bd06-38af43eab217)
+ ![niagara falls-4](https://github.com/eduardamaria896/kkkkk/assets/106313690/2fb0ffb7-737b-43d8-8162-9e1ee297924d)
+
 </head>
 <body>
     <h1>Lugares Turísticos</h1>
     <div class="lugar-turistico">
-        <img src="lugar1.jpg" alt="Lugar 1">
+   
+  <img src="lugar1.jpg" alt="Lugar 1">
         <h2>Lugar Turístico 1</h2>
         <p>Descrição do lugar turístico 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
