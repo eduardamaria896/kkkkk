@@ -38,9 +38,8 @@
 
   <h2>Lugares Turisticos-Beto Carrero</h2>
   
-![parque-beto-carrero-world-capa-02](https://github.com/eduardamaria896/kkkkk/assets/106313690/5952fcb3-6a9d-4d8d-b874-3899a2812243)
-
- <p>Beto Carrero World é um parque temático localizado no litoral norte do estado de Santa Catarina, Brasil. Inaugurado no dia 28 de dezembro de 1991, pelo seu idealizador João Batista Sérgio Murad, artisticamente conhecido como Beto Carrero, o parque foi desenvolvido em uma área de 14 quilômetros quadrados.
+ ![parque-beto-carrero-world-capa-02](https://github.com/eduardamaria896/kkkkk/assets/106313690/5952fcb3-6a9d-4d8d-b874-3899a2812243)
+<p>Beto Carrero World é um parque temático localizado no litoral norte do estado de Santa Catarina, Brasil. Inaugurado no dia 28 de dezembro de 1991, pelo seu idealizador João Batista Sérgio Murad, artisticamente conhecido como Beto Carrero, o parque foi desenvolvido em uma área de 14 quilômetros quadrados.
 </p>
     </div>
 
