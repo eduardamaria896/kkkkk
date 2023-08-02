@@ -35,10 +35,7 @@
 
  ![niagara falls-4](https://github.com/eduardamaria896/kkkkk/assets/106313690/a9b9625d-23f0-4a25-8eee-b10c9d45e58c)
    
-        <p>As Cataratas do Niágara, Niagara Falls em inglês, são quedas d'aguas que têm um volume médio de 2.400m³/s. Elas estão localizadas no Rio Niágara, na fronteira entre Estados Unidos e Canadá, e são um dos maiores espetáculos naturais do mundo. Quem visita o lugar, não esquece!</p>
-    </div>
-    <div class="lugar-turistico">
-        <img src="lugar2.jpg" alt="Lugar 2">
+   <p>As Cataratas do Niágara, Niagara Falls em inglês, são quedas d'aguas que têm um volume médio de 2.400m³/s. Elas estão localizadas no Rio Niágara, na fronteira entre Estados Unidos e Canadá, e são um dos maiores espetáculos naturais do mundo. Quem visita o lugar, não esquece!</p>
         <h2>Lugar Turístico 2</h2>
         <p>Descrição do lugar turístico 2. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
     </div>
