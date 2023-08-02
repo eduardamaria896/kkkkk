@@ -36,11 +36,12 @@
  ![niagara falls-4](https://github.com/eduardamaria896/kkkkk/assets/106313690/a9b9625d-23f0-4a25-8eee-b10c9d45e58c)
    <p>As Cataratas do Niágara, Niagara Falls em inglês, são quedas d'aguas que têm um volume médio de 2.400m³/s. Elas estão localizadas no Rio Niágara, na fronteira entre Estados Unidos e Canadá, e são um dos maiores espetáculos naturais do mundo. Quem visita o lugar, não esquece!</p>
 
-  <h2>Lugares Turisticos</h2>
-  <p>Jardim Botanico</p>
-
+  <h2>Lugares Turisticos-Beto Carrero</h2>
   
-        <p>Descrição do lugar turístico 2. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+![parque-beto-carrero-world-capa-02](https://github.com/eduardamaria896/kkkkk/assets/106313690/5952fcb3-6a9d-4d8d-b874-3899a2812243)
+
+ <p>Beto Carrero World é um parque temático localizado no litoral norte do estado de Santa Catarina, Brasil. Inaugurado no dia 28 de dezembro de 1991, pelo seu idealizador João Batista Sérgio Murad, artisticamente conhecido como Beto Carrero, o parque foi desenvolvido em uma área de 14 quilômetros quadrados.
+</p>
     </div>
 
 </body>
