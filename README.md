@@ -1,4 +1,3 @@
-![niagara falls-4](https://github.com/eduardamaria896/kkkkk/assets/106313690/a9b9625d-23f0-4a25-8eee-b10c9d45e58c)
  Blog De Viagnes
 <!DOCTYPE html>
 <html>
@@ -19,13 +18,13 @@
 </body>
 </html>
 
+
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Lugares Turísticos</title>
+    <p></p>
     <p>Cataratas do Niágara</p>
- ![niagara falls-4](https://github.com/eduardamaria896/kkkkk/assets/106313690/2fb0ffb7-737b-43d8-8162-9e1ee297924d)
-
+![niagara falls-4](https://github.com/eduardamaria896/kkkkk/assets/106313690/a9b9625d-23f0-4a25-8eee-b10c9d45e58c)
 </head>
 <body>
     <h1>Lugares Turísticos</h1>
@@ -43,4 +42,3 @@
     <!-- Adicione mais lugares turísticos aqui -->
 </body>
 </html>
-
