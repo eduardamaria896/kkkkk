@@ -30,12 +30,12 @@
 <html>
 <head>
      <div class="lugar-turistico">
-      <h2>Lugar Turístico 1</h2>
+      <h2>Lugar Turísticos </h2>
     <p>Cataratas do Niágara</p>
 
  ![niagara falls-4](https://github.com/eduardamaria896/kkkkk/assets/106313690/a9b9625d-23f0-4a25-8eee-b10c9d45e58c)
    
-        <p>Descrição do lugar turístico 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p>As Cataratas do Niágara, Niagara Falls em inglês, são quedas d'aguas que têm um volume médio de 2.400m³/s. Elas estão localizadas no Rio Niágara, na fronteira entre Estados Unidos e Canadá, e são um dos maiores espetáculos naturais do mundo. Quem visita o lugar, não esquece!</p>
     </div>
     <div class="lugar-turistico">
         <img src="lugar2.jpg" alt="Lugar 2">
