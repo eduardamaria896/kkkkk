@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Dicas de Viagem</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
