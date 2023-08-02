@@ -22,8 +22,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <p></p>
-    <p>Cataratas do Niágara</p>
+ 
  
 </head>
 <body>
