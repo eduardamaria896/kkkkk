@@ -1,4 +1,4 @@
-# Blog De Viagnes
+![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/bac23236-3418-4c5e-bd06-38af43eab217)# Blog De Viagnes
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,7 +22,8 @@
 <html>
 <head>
     <title>Lugares Turísticos</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <p>Cataratas do Niágara</p>
+    <link ![Uploading niagara falls-4.png…]()rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <h1>Lugares Turísticos</h1>
