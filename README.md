@@ -53,6 +53,7 @@
 <p>o Parque Bondinho Pão de Açúcar inclui um anfiteatro que recebe shows e eventos corporativos e a Praça dos Bondes, com um mirante para o Morro da Babilônia e a Praia Vermelha.</p>
 
 <h5>Lugares Turisticos-Paris Torre Eiffel<h5>
+ 
  ![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/134342a1-3415-43ce-bffe-cfe27d30d7db)
 <p>A Torre Eiffel é uma torre treliçada de ferro forjado no Champ de Mars, em Paris, França. Construída a partir de 1887, recebeu o nome do engenheiro Gustave Eiffel, cuja empresa projetou e construiu a torre.</p>
 
