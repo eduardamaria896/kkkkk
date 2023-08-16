@@ -46,6 +46,12 @@
 
 ![0620ZU_3567RW jpeg](https://github.com/eduardamaria896/kkkkk/assets/106313690/ed0ce96e-119b-4f61-beaa-ebdf457efa8f)
 <p>The Walt Disney Company, mais conhecida apenas como Disney, é o maior conglomerado de mídia do mundo. A companhia foi fundada em 1923 pelos irmãos Walt Disney e Roy Oliver Disney, tendo como especialidade as animações, mas ao longo dos anos a marca se expandiu para múltiplas áreas do entretenimento.</p>
+
+<h4>Lugares Turisticos-Pão de Açúcar</h4>
+
+![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/1889b475-050d-43bf-8968-1f5a5a11118b)
+<p>o Parque Bondinho Pão de Açúcar inclui um anfiteatro que recebe shows e eventos corporativos e a Praça dos Bondes, com um mirante para o Morro da Babilônia e a Praia Vermelha.</p>
+
     </div>
 
 </body>
