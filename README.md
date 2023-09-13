@@ -93,6 +93,20 @@
    ![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/f6330db5-a425-474a-9cb0-bcc861d7be87)
    <P>A floresta tropical amazônica, que cobre boa parte do noroeste do Brasil e se estende até a Colômbia, o Peru e outros países da América do Sul, é a maior floresta tropical do mundo, famosa por sua biodiversidade.</P>
 
+  <h13>Lugares Turisticos-Deserto de Sal</h13>
+  
+![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/0b2df57c-dd82-42a7-ab0f-36404a97ccb2)
+<P>Um deserto de sal ou salar é um lago mais ou menos temporário para o qual convergem os sedimentos constituídos sobretudo por sais. Os sais precipitam-se sob o efeito de forte evaporação, que após longo tempo é mais importante que a taxa de reposição ou a chegada de água à bacia do lago.</P>
+
+  <h14>Lugares Turisticos-Inglaterra</h14>
+  
+![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/1756250f-e913-411b-87d1-a178d0d6ee15)
+<P>A Inglaterra é um país europeu localizado na ilha da Grã-Bretanha, sendo parte da união política conhecida como Reino Unido. Sua capital é a cidade de Londres. A população inglesa é atualmente de 56 milhões de habitantes, concentrando a maior parcela dos moradores do Reino Unido.</P>
+
+  <h15>Lugares Turisticos-Deserto do Atacama</h15>
+  
+  ![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/1c2db424-d3d0-4be4-a001-f63b05c8687f)
+<P>Deserto de Atacama está localizado na região norte do Chile até a fronteira com o Peru. Com cerca de 1 000 km de extensão, é considerado o deserto mais alto do mundo.</P>
 
   </div>
 
