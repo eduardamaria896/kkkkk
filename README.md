@@ -61,6 +61,39 @@
 
 ![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/701ce554-c16a-4d89-8795-e03efc3e5738)
 <p>O Parque Nacional dos Lençóis Maranhenses é uma área protegida na costa atlântica norte do Brasil. É conhecido pela sua vasta paisagem desértica de grandes dunas de areia branca e pelas lagoas sazonais de água da chuva. A Lagoa Azul e a Lagoa Bonita são duas das maiores lagoas. O ecossistema diversificado do parque inclui pântanos de mangais. As cidades vizinhas de Barreirinhas e Santo Amaro do Maranhão servem de porta de entrada para o parque.</p>
+
+  <h7>Lugares Turisticos- Torre de Pisa</h7>
+
+  ![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/088b6955-1313-42ee-8b58-7689ddfca280)
+<p>A torre inclinada de Pisa, ou simplesmente Torre de Pisa, é um campanário da catedral da cidade italiana de Pisa. Está situada atrás da catedral, e é a terceira mais antiga estrutura na praça da Catedral de Pisa, depois da catedral e do baptistério.</p>
+
+  <h8>Lugares Turisticos- Jardim Botanico<h8>
+
+![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/314486df-b2ee-4f75-85e5-c641477a19e6)
+<P>O Jardim Botânico Francisca Maria Garfunkel Rischbieter foi inaugurado em 5 de outubro de 1991. O nome oficial é uma homenagem à urbanista, uma das pioneiras no trabalho de planejamento urbano de Curitiba. O uso de suas dependências é regulamentado pelo Decreto Municipal 1.583/2011.</P>
+
+  <h9>Lugares Turisticos- Catedral de Maringa</h9>
+
+  ![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/c6c192c9-9007-46da-8375-0bf413578382)
+<P>A Catedral Metropolitana Basílica Menor de Nossa Senhora da Glória é um templo católico do município brasileiro de Maringá, no estado do Paraná, onde se encontra a cátedra da Arquidiocese de Maringá. Localizada na Avenida Tiradentes, é considerada símbolo da cidade.</P>
+
+  <h10>Lugares Turisticos-Cidade de Florença</h10>
+
+![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/ac50883e-1eea-41a4-b9a2-5d1dd3e34178)
+<P>Florença (em italiano: Firenze) é um município italiano, sub-capital e maior cidade da região da Toscana e da província homônima, com cerca de 377 207 habitantes (1 007 252 a cidade metropolitana). Estende-se por uma área de 102,41 km², tendo uma densidade populacional de 3 683 hab/km².
+</P>
+
+  <h11>Lugares Turisticos-rio Caño Cristales</h11>
+  
+![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/f44139b9-0853-4559-b52a-c888526fbdcf)
+<P>O rio Caño Cristales fica na Colômbia e é considerado o mais bonito do mundo. Atrai turistas de várias partes do mundo por ser comparado a um arco-íris pelos seus tons de vermelho, azul, amarelo, laranja e verde.</P>
+
+  <h12>Lugares Turisticos-Amazonia</h12>
+  
+   ![image](https://github.com/eduardamaria896/kkkkk/assets/106313690/f6330db5-a425-474a-9cb0-bcc861d7be87)
+   <P>A floresta tropical amazônica, que cobre boa parte do noroeste do Brasil e se estende até a Colômbia, o Peru e outros países da América do Sul, é a maior floresta tropical do mundo, famosa por sua biodiversidade.</P>
+
+
   </div>
 
 </body>
